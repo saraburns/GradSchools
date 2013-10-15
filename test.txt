@@ -1,0 +1,11 @@
+These are the schools in ranked order, using the following weights
+Academic Weight: 4   Research Weight: 2   Publications Weight: 0
+SCHOOL: 1	 Academics: 1	 Research: 1	 Publications: 1
+ Overall: 6	 Current rank: 6
+
+SCHOOL: 2	 Academics: 2	 Research: 1	 Publications: 1
+ Overall: 10	 Current rank: 10
+
+SCHOOL: 3	 Academics: 3	 Research: 1	 Publications: 1
+ Overall: 14	 Current rank: 14
+

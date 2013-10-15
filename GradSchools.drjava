@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130901-r5756">
+  <project autorefresh="false" manifest="" root="" work="">
+    <createjar file="GradSchoolsGUI.jar" flags="12"/>
+    <source>
+      <file active="true" name="GradSchoolsGUI.java" package="" timestamp="04-Oct-2013 17:14:46">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="AboutPanel.java" package="" timestamp="04-Oct-2013 17:14:45">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="AddSchoolPanel.java" package="" timestamp="04-Oct-2013 17:14:45">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="EvalPanel.java" package="" timestamp="04-Oct-2013 17:14:45">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="GradSchools.java" package="" timestamp="04-Oct-2013 17:14:45">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="School.java" package="" timestamp="04-Oct-2013 17:14:46">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
