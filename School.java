@@ -1,5 +1,4 @@
-/** Defines a class of School objects that store information about individual grad schools
-  * @author Takis Metaxas
+/** Defines a class of School objects that store information about individual grad 
   * KNOWN BUGS: 
   * 1. Enforces ratings in the range [1..10] by limiting larger/smaller values
   * but only for academics, research, pubs. 
@@ -8,6 +7,7 @@
   * Better create class RankedSchool extending School, and have them in there.
   * 3. Does not check whether the weights given are in the range [1..5]. That should also
   * be done in the RankedSchool class.
+  * @author Takis Metaxas
   */
 public class School {  
   
